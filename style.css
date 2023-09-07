@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #212121;
+    color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    margin: 20px;
+}
+
+input{
+    margin-left: 4px;
+}
